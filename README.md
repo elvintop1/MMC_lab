@@ -1,2 +1,2 @@
 # MMC_DataScience
-Repository chung của lớp học nhóm DataScience
+Repository của Đỗ Quang Hào nhóm DataScience
